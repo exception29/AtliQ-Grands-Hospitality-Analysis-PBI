@@ -35,24 +35,25 @@ Create relevant insights that are not provided in the metric list/mock-up dashbo
 ### Hospitality Domain Knowledge: 
 
 Metrics that hold the key to success in the hospitality domain:
-ADR - Average Daily Revenue
+
+- ADR - Average Daily Revenue
 It is the ratio of revenue to the total rooms booked/sold. Measure of the average paid for rooms, sold in a given time period.
 
-DBRN - Daily Booked Room Nights
+- DBRN - Daily Booked Room Nights
 An average number of rooms booked per day during a time period.
 
-DSRN - Daily Sellable Room Nights
+- DSRN - Daily Sellable Room Nights
 The average number of rooms available for sale per day during a time period.
 
-DURN - Daily Utilized Room Nights
+- DURN - Daily Utilized Room Nights
 The average number of rooms successfully used by customers per day during a time period.
 
-RevPAR - Revenue Per Available Room.
+- RevPAR - Revenue Per Available Room.
 
-Occupancy Percentage
+- Occupancy Percentage
 Percentage of successfully booked rooms out of the total available capacity.
 
-No-Show Rate
+- No-Show Rate
 Percentage of customers who fail to show up for their bookings.
 
 Realization Percentage
