@@ -56,7 +56,7 @@ Percentage of successfully booked rooms out of the total available capacity.
 - No-Show Rate
 Percentage of customers who fail to show up for their bookings.
 
-Realization Percentage
+- Realization Percentage
 Percentage of successfully checked-out bookings and overall bookings made.
 
 	
